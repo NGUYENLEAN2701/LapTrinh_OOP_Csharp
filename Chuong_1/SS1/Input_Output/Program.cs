@@ -10,4 +10,5 @@ var ps = new ProcessStartInfo("https://nguyenlean.com/index.php")
     UseShellExecute = true,
     Verb = "open"
 };
-//Process.Start(ps);
+Process.Start(ps);
+Console.ReadLine();
