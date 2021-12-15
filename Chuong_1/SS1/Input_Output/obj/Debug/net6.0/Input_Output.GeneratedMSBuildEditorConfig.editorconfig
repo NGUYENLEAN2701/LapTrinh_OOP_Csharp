@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = ss3._2_test_OOP
-build_property.ProjectDir = C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1\SS3\ss3.2_test_OOP\
+build_property.RootNamespace = Input_Output
+build_property.ProjectDir = C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1\SS1\Input_Output\
