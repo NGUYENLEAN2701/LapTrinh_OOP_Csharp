@@ -4,8 +4,6 @@ namespace Green
     {
         public static void s_tamgiac()
         {
-            Console.OutputEncoding = System.Text.Encoding.Unicode;
-            Console.InputEncoding = System.Text.Encoding.Unicode;
             Console.WriteLine("Xin nhập độ dài 3 cạnh của tam giác: ");
             Console.Write("a = ");
             float a = 0;
@@ -27,8 +25,17 @@ namespace Green
             }
             //tính S tam giác:
             float p = (a + b + c) / 2;
-            float s = (float)Math.Sqrt(p * (p - a) * (p - b) * (p - c));
-            Console.WriteLine("Diện Tích Tam Giác là: S = {0:0.00}", s);
+
+            if (p <= a || p <= b || p <= c)
+            {
+                Console.WriteLine("Độ dài 3 cạnh đã nhập ko tạo thành Tam Giác!");
+            }
+            else
+            {
+                double s = Math.Sqrt(p * (p - a) * (p - b) * (p - c));
+                Console.WriteLine("Diện Tích Tam Giác là: S = {0:0.00}", s);
+            }
+
         }
     }
 }

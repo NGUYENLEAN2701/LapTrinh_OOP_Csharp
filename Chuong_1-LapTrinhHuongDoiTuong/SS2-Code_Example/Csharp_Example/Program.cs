@@ -1,7 +1,10 @@
 ﻿using System.Diagnostics;
 using Green;
-
-Console.WriteLine("Hello, World!");
+Console.OutputEncoding = System.Text.Encoding.Unicode;
+Console.InputEncoding = System.Text.Encoding.Unicode;
+Console.Write("Xin nhập tên bạn: ");
+string? ten_ban = Console.ReadLine();
+Console.WriteLine("Xin Chào, Bạn {0}!", ten_ban);
 S_TamGiac.s_tamgiac();
 Console.WriteLine("Bạn có muốn xem website: nguyenlean.com?");
 Console.Write("1-Có | 2-Không -> Chọn: ");
