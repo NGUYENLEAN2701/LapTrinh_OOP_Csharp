@@ -1,0 +1,15 @@
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS2-Code_Example\Csharp_Class_Collection\bin\Debug\net6.0\Csharp_Class_Collection.exe
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS2-Code_Example\Csharp_Class_Collection\bin\Debug\net6.0\Csharp_Class_Collection.deps.json
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS2-Code_Example\Csharp_Class_Collection\bin\Debug\net6.0\Csharp_Class_Collection.runtimeconfig.json
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS2-Code_Example\Csharp_Class_Collection\bin\Debug\net6.0\Csharp_Class_Collection.dll
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS2-Code_Example\Csharp_Class_Collection\bin\Debug\net6.0\ref\Csharp_Class_Collection.dll
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS2-Code_Example\Csharp_Class_Collection\bin\Debug\net6.0\Csharp_Class_Collection.pdb
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS2-Code_Example\Csharp_Class_Collection\obj\Debug\net6.0\Csharp_Class_Collection.csproj.AssemblyReference.cache
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS2-Code_Example\Csharp_Class_Collection\obj\Debug\net6.0\Csharp_Class_Collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS2-Code_Example\Csharp_Class_Collection\obj\Debug\net6.0\Csharp_Class_Collection.AssemblyInfoInputs.cache
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS2-Code_Example\Csharp_Class_Collection\obj\Debug\net6.0\Csharp_Class_Collection.AssemblyInfo.cs
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS2-Code_Example\Csharp_Class_Collection\obj\Debug\net6.0\Csharp_Class_Collection.csproj.CoreCompileInputs.cache
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS2-Code_Example\Csharp_Class_Collection\obj\Debug\net6.0\Csharp_Class_Collection.dll
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS2-Code_Example\Csharp_Class_Collection\obj\Debug\net6.0\ref\Csharp_Class_Collection.dll
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS2-Code_Example\Csharp_Class_Collection\obj\Debug\net6.0\Csharp_Class_Collection.pdb
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS2-Code_Example\Csharp_Class_Collection\obj\Debug\net6.0\Csharp_Class_Collection.genruntimeconfig.cache

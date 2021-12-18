@@ -2,6 +2,7 @@ namespace Green
 {
     public class Points
     {
+
         public struct Point
         {
             public float x;
@@ -18,11 +19,7 @@ namespace Green
             Console.WriteLine("1 - Nhập Dữ Liệu Tự Động");
             Console.WriteLine("2 - Nhập Tay Dữ Liệu");
             Console.Write("-> Chọn: ");
-            int ch = 1;
-            while (!int.TryParse(Console.ReadLine(), out ch))
-            {
-                Console.Write("Bạn nhập sai - thử chọn lại: ");
-            }
+            int ch = Class_Collection.Int_Input("nhập sai, thử lại: ");
             if (ch == 2)
             {
                 for (int i = 0; i < n; i++)
@@ -30,15 +27,9 @@ namespace Green
                     Point p = new Point(0, 0);
                     Console.WriteLine("Điểm {0} :", i + 1);
                     Console.Write("-> x = ");
-                    while (!float.TryParse(Console.ReadLine(), out p.x))
-                    {
-                        Console.Write("Bạn nhập sai - thử lại: x = ");
-                    }
+                    p.x = Class_Collection.Float_Input("nhập sai, thử lại: x = ");
                     Console.Write("-> y = ");
-                    while (!float.TryParse(Console.ReadLine(), out p.y))
-                    {
-                        Console.Write("Bạn nhập sai - thử lại: y = ");
-                    }
+                    p.y = Class_Collection.Float_Input("nhập sai, thử lại: y = ");
                     points.Add(p);
                 }
             }
