@@ -55,11 +55,9 @@ namespace Green
         }
         public static void Show_Points(List<Point> p)
         {
-            int i = 1;
-            foreach (Point item in p)
+            foreach (var (item, index) in p.Select((item, index) => (item, index)))
             {
-                Console.WriteLine("p{0}({1:0.00}, {2:0.00})", i, item.x, item.y);
-                i++;
+                Console.WriteLine("p{0}({1:0.00}, {2:0.00})", index + 1, item.x, item.y);
             }
         }
         public static float Distance_2_Points(Point p1, Point p2)
