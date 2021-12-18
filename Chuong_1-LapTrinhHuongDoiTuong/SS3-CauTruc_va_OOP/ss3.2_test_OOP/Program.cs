@@ -3,7 +3,7 @@ Console.OutputEncoding = System.Text.Encoding.Unicode;
 Console.InputEncoding = System.Text.Encoding.Unicode;
 Console.Write("Nhập số lượng điểm: n = ");
 int n = 0;
-while (!int.TryParse(Console.ReadLine(), out n))
+while (!int.TryParse(Console.ReadLine(), out n) || n < 2)
 {
     Console.Write("Bạn nhập sai - thử lại: n = ");
 }
