@@ -1,5 +1,4 @@
 ﻿using Green;
-//using System.Collections.Generic;
 Console.OutputEncoding = System.Text.Encoding.Unicode;
 Console.InputEncoding = System.Text.Encoding.Unicode;
 Console.Write("Nhập số lượng điểm: n = ");
