@@ -84,7 +84,8 @@ namespace Green
                 }
             }
             Console.WriteLine("Đoạn thẳng lớn nhất có độ dài: d = {0:0.00}", dmax);
-            Console.WriteLine("Đi qua điểm p{0}({1:0.00}, {2:0.00}) và p{3}({4:0.00}, {5:0.00})", imax, p[imax - 1].x, p[imax - 1].y, jmax, p[jmax - 1].x, p[jmax - 1].y);
+            Console.WriteLine("Đi qua điểm p{0}({1:0.00}, {2:0.00}) và p{3}({4:0.00}, {5:0.00})",
+                    imax, p[imax - 1].x, p[imax - 1].y, jmax, p[jmax - 1].x, p[jmax - 1].y);
         }
 
     }
