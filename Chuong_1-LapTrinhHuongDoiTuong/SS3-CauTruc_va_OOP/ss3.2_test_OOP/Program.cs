@@ -1,7 +1,15 @@
 ﻿using Green;
-static void Hi_Green()
+//using System.Collections.Generic;
+Console.OutputEncoding = System.Text.Encoding.Unicode;
+Console.InputEncoding = System.Text.Encoding.Unicode;
+Console.Write("Nhập số lượng điểm: n = ");
+int n = 0;
+while (!int.TryParse(Console.ReadLine(), out n))
 {
-    Console.WriteLine("Hello Green");
+    Console.Write("Bạn nhập sai - thử lại: n = ");
 }
-Say_Hi.say_hi();
-Hi_Green();
+List<Points.Point> points = new List<Points.Point>();
+points = Points.List_Points(n);
+Points.Show_Points(points);
+Points.The2furthestpoints(points);
+Console.ReadKey();
