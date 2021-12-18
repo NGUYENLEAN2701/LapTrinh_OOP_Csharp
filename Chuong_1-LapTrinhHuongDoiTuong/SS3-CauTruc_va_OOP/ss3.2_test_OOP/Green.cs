@@ -15,8 +15,8 @@ namespace Green
         public static List<Point> List_Points(int n)
         {
             List<Point> points = new List<Point>();
-            Console.WriteLine("1- Nhập Dữ Liệu Tự Động");
-            Console.WriteLine("2- Nhập Tay Dữ Liệu");
+            Console.WriteLine("1 - Nhập Dữ Liệu Tự Động");
+            Console.WriteLine("2 - Nhập Tay Dữ Liệu");
             Console.Write("-> Chọn: ");
             int ch = 1;
             while (!int.TryParse(Console.ReadLine(), out ch))
@@ -84,7 +84,7 @@ namespace Green
                 }
             }
             Console.WriteLine("Đoạn thẳng lớn nhất có độ dài: d = {0:0.00}", dmax);
-            Console.WriteLine("Đi qua điểm p{0}({1:0.00}, {2:0.00}) và p{3}({4:0.00}, {5:0.00})", imax, p[imax].x, p[imax].y, jmax, p[jmax].x, p[jmax].y);
+            Console.WriteLine("Đi qua điểm p{0}({1:0.00}, {2:0.00}) và p{3}({4:0.00}, {5:0.00})", imax, p[imax - 1].x, p[imax - 1].y, jmax, p[jmax - 1].x, p[jmax - 1].y);
         }
 
     }
