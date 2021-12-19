@@ -2,7 +2,6 @@ namespace Green
 {
     public class Class_Collection
     {
-
         public static int Int_Input(string str)
         {
             int value = 0;

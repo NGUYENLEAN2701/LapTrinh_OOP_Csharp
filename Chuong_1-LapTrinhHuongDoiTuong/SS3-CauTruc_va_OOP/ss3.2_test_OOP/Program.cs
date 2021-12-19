@@ -8,6 +8,7 @@ while (n < 2)
     Console.Write("nhập sai, thử lại: n = ");
     n = Class_Collection.Int_Input("nhập sai, thử lại: n = ");
 }
+
 List<Points.Point> points = new List<Points.Point>();
 points = Points.List_Points(n);
 Points.Show_Points(points);
