@@ -1,0 +1,15 @@
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS3-CauTruc_va_OOP\ss3.2_OOP\Example\Max_Distance\bin\Debug\net6.0\Max_Distance.exe
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS3-CauTruc_va_OOP\ss3.2_OOP\Example\Max_Distance\bin\Debug\net6.0\Max_Distance.deps.json
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS3-CauTruc_va_OOP\ss3.2_OOP\Example\Max_Distance\bin\Debug\net6.0\Max_Distance.runtimeconfig.json
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS3-CauTruc_va_OOP\ss3.2_OOP\Example\Max_Distance\bin\Debug\net6.0\Max_Distance.dll
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS3-CauTruc_va_OOP\ss3.2_OOP\Example\Max_Distance\bin\Debug\net6.0\ref\Max_Distance.dll
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS3-CauTruc_va_OOP\ss3.2_OOP\Example\Max_Distance\bin\Debug\net6.0\Max_Distance.pdb
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS3-CauTruc_va_OOP\ss3.2_OOP\Example\Max_Distance\obj\Debug\net6.0\Max_Distance.csproj.AssemblyReference.cache
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS3-CauTruc_va_OOP\ss3.2_OOP\Example\Max_Distance\obj\Debug\net6.0\Max_Distance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS3-CauTruc_va_OOP\ss3.2_OOP\Example\Max_Distance\obj\Debug\net6.0\Max_Distance.AssemblyInfoInputs.cache
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS3-CauTruc_va_OOP\ss3.2_OOP\Example\Max_Distance\obj\Debug\net6.0\Max_Distance.AssemblyInfo.cs
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS3-CauTruc_va_OOP\ss3.2_OOP\Example\Max_Distance\obj\Debug\net6.0\Max_Distance.csproj.CoreCompileInputs.cache
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS3-CauTruc_va_OOP\ss3.2_OOP\Example\Max_Distance\obj\Debug\net6.0\Max_Distance.dll
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS3-CauTruc_va_OOP\ss3.2_OOP\Example\Max_Distance\obj\Debug\net6.0\ref\Max_Distance.dll
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS3-CauTruc_va_OOP\ss3.2_OOP\Example\Max_Distance\obj\Debug\net6.0\Max_Distance.pdb
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS3-CauTruc_va_OOP\ss3.2_OOP\Example\Max_Distance\obj\Debug\net6.0\Max_Distance.genruntimeconfig.cache
