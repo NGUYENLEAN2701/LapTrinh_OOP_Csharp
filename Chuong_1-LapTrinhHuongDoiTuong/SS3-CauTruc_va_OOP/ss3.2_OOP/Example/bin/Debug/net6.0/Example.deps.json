@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "ss3.2_test_OOP/1.0.0": {
+      "Example/1.0.0": {
         "runtime": {
-          "ss3.2_test_OOP.dll": {}
+          "Example.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "ss3.2_test_OOP/1.0.0": {
+    "Example/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
