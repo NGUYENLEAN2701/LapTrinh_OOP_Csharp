@@ -1,0 +1,15 @@
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS3-CauTruc_va_OOP\ss3.2_OOP\5_Khai_Niem\5_Object\bin\Debug\net6.0\5_Object.exe
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS3-CauTruc_va_OOP\ss3.2_OOP\5_Khai_Niem\5_Object\bin\Debug\net6.0\5_Object.deps.json
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS3-CauTruc_va_OOP\ss3.2_OOP\5_Khai_Niem\5_Object\bin\Debug\net6.0\5_Object.runtimeconfig.json
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS3-CauTruc_va_OOP\ss3.2_OOP\5_Khai_Niem\5_Object\bin\Debug\net6.0\5_Object.dll
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS3-CauTruc_va_OOP\ss3.2_OOP\5_Khai_Niem\5_Object\bin\Debug\net6.0\ref\5_Object.dll
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS3-CauTruc_va_OOP\ss3.2_OOP\5_Khai_Niem\5_Object\bin\Debug\net6.0\5_Object.pdb
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS3-CauTruc_va_OOP\ss3.2_OOP\5_Khai_Niem\5_Object\obj\Debug\net6.0\5_Object.csproj.AssemblyReference.cache
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS3-CauTruc_va_OOP\ss3.2_OOP\5_Khai_Niem\5_Object\obj\Debug\net6.0\5_Object.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS3-CauTruc_va_OOP\ss3.2_OOP\5_Khai_Niem\5_Object\obj\Debug\net6.0\5_Object.AssemblyInfoInputs.cache
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS3-CauTruc_va_OOP\ss3.2_OOP\5_Khai_Niem\5_Object\obj\Debug\net6.0\5_Object.AssemblyInfo.cs
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS3-CauTruc_va_OOP\ss3.2_OOP\5_Khai_Niem\5_Object\obj\Debug\net6.0\5_Object.csproj.CoreCompileInputs.cache
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS3-CauTruc_va_OOP\ss3.2_OOP\5_Khai_Niem\5_Object\obj\Debug\net6.0\5_Object.dll
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS3-CauTruc_va_OOP\ss3.2_OOP\5_Khai_Niem\5_Object\obj\Debug\net6.0\ref\5_Object.dll
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS3-CauTruc_va_OOP\ss3.2_OOP\5_Khai_Niem\5_Object\obj\Debug\net6.0\5_Object.pdb
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS3-CauTruc_va_OOP\ss3.2_OOP\5_Khai_Niem\5_Object\obj\Debug\net6.0\5_Object.genruntimeconfig.cache
