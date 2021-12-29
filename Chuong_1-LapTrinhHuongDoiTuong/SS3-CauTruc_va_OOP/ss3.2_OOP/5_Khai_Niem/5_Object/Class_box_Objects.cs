@@ -5,7 +5,19 @@ namespace BoxApplication
     class Box
     {
         //! properties
-        public double Length { get; set; }
+        private double _length;
+
+        public double Length
+        {
+            get
+            {
+                return _length;
+            }
+            set
+            {
+                _length = value;
+            }
+        }
         public double Breadth { get; set; }
         public double Height { get; set; }
 
@@ -24,7 +36,7 @@ namespace BoxApplication
         //! methods
         public void Print()
         {
-            Console.WriteLine("Length = {0}, Breadth = {1}, Height = {2}", Length, Breadth, Height);
+            Console.WriteLine("Length = {0}, Breadth = {1}, Height = {2}, private : {3}", Length, Breadth, Height, _length);
         }
     }
 
@@ -36,6 +48,8 @@ namespace BoxApplication
             Box box1 = new Box(6.0, 7.0, 5.0);
 
             box1.Print();
+            box1.Length = 5;
+            Console.WriteLine("{0}", box1.Length);
             Console.ReadKey();
         }
     }
