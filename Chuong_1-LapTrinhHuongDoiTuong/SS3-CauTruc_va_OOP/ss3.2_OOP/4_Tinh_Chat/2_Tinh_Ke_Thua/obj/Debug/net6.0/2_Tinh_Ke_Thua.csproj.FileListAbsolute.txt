@@ -1,0 +1,15 @@
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS3-CauTruc_va_OOP\ss3.2_OOP\4_Tinh_Chat\2_Tinh_Ke_Thua\bin\Debug\net6.0\2_Tinh_Ke_Thua.exe
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS3-CauTruc_va_OOP\ss3.2_OOP\4_Tinh_Chat\2_Tinh_Ke_Thua\bin\Debug\net6.0\2_Tinh_Ke_Thua.deps.json
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS3-CauTruc_va_OOP\ss3.2_OOP\4_Tinh_Chat\2_Tinh_Ke_Thua\bin\Debug\net6.0\2_Tinh_Ke_Thua.runtimeconfig.json
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS3-CauTruc_va_OOP\ss3.2_OOP\4_Tinh_Chat\2_Tinh_Ke_Thua\bin\Debug\net6.0\2_Tinh_Ke_Thua.dll
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS3-CauTruc_va_OOP\ss3.2_OOP\4_Tinh_Chat\2_Tinh_Ke_Thua\bin\Debug\net6.0\ref\2_Tinh_Ke_Thua.dll
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS3-CauTruc_va_OOP\ss3.2_OOP\4_Tinh_Chat\2_Tinh_Ke_Thua\bin\Debug\net6.0\2_Tinh_Ke_Thua.pdb
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS3-CauTruc_va_OOP\ss3.2_OOP\4_Tinh_Chat\2_Tinh_Ke_Thua\obj\Debug\net6.0\2_Tinh_Ke_Thua.csproj.AssemblyReference.cache
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS3-CauTruc_va_OOP\ss3.2_OOP\4_Tinh_Chat\2_Tinh_Ke_Thua\obj\Debug\net6.0\2_Tinh_Ke_Thua.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS3-CauTruc_va_OOP\ss3.2_OOP\4_Tinh_Chat\2_Tinh_Ke_Thua\obj\Debug\net6.0\2_Tinh_Ke_Thua.AssemblyInfoInputs.cache
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS3-CauTruc_va_OOP\ss3.2_OOP\4_Tinh_Chat\2_Tinh_Ke_Thua\obj\Debug\net6.0\2_Tinh_Ke_Thua.AssemblyInfo.cs
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS3-CauTruc_va_OOP\ss3.2_OOP\4_Tinh_Chat\2_Tinh_Ke_Thua\obj\Debug\net6.0\2_Tinh_Ke_Thua.csproj.CoreCompileInputs.cache
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS3-CauTruc_va_OOP\ss3.2_OOP\4_Tinh_Chat\2_Tinh_Ke_Thua\obj\Debug\net6.0\2_Tinh_Ke_Thua.dll
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS3-CauTruc_va_OOP\ss3.2_OOP\4_Tinh_Chat\2_Tinh_Ke_Thua\obj\Debug\net6.0\ref\2_Tinh_Ke_Thua.dll
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS3-CauTruc_va_OOP\ss3.2_OOP\4_Tinh_Chat\2_Tinh_Ke_Thua\obj\Debug\net6.0\2_Tinh_Ke_Thua.pdb
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS3-CauTruc_va_OOP\ss3.2_OOP\4_Tinh_Chat\2_Tinh_Ke_Thua\obj\Debug\net6.0\2_Tinh_Ke_Thua.genruntimeconfig.cache
