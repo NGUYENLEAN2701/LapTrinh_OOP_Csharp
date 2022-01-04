@@ -38,6 +38,7 @@ namespace InheritanceApplication
             // Print the area of the object.
             Console.WriteLine("Total area: {0}", rectangle.GetArea());
 
+            //! Create a square... this square have all field and method of Rectangle and Shape Class!
             Square square = new Square();
             square.Width = 9;
             square.Height = 9;
