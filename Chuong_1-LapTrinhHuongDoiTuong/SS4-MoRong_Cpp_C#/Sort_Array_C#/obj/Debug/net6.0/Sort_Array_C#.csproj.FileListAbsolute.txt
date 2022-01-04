@@ -1,0 +1,15 @@
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS4-MoRong_Cpp_C#\Sort_Array_C#\obj\Debug\net6.0\Sort_Array_C#.csproj.AssemblyReference.cache
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS4-MoRong_Cpp_C#\Sort_Array_C#\obj\Debug\net6.0\Sort_Array_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS4-MoRong_Cpp_C#\Sort_Array_C#\obj\Debug\net6.0\Sort_Array_C#.AssemblyInfoInputs.cache
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS4-MoRong_Cpp_C#\Sort_Array_C#\obj\Debug\net6.0\Sort_Array_C#.AssemblyInfo.cs
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS4-MoRong_Cpp_C#\Sort_Array_C#\obj\Debug\net6.0\Sort_Array_C#.csproj.CoreCompileInputs.cache
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS4-MoRong_Cpp_C#\Sort_Array_C#\bin\Debug\net6.0\Sort_Array_C#.exe
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS4-MoRong_Cpp_C#\Sort_Array_C#\bin\Debug\net6.0\Sort_Array_C#.deps.json
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS4-MoRong_Cpp_C#\Sort_Array_C#\bin\Debug\net6.0\Sort_Array_C#.runtimeconfig.json
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS4-MoRong_Cpp_C#\Sort_Array_C#\bin\Debug\net6.0\Sort_Array_C#.dll
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS4-MoRong_Cpp_C#\Sort_Array_C#\bin\Debug\net6.0\ref\Sort_Array_C#.dll
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS4-MoRong_Cpp_C#\Sort_Array_C#\bin\Debug\net6.0\Sort_Array_C#.pdb
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS4-MoRong_Cpp_C#\Sort_Array_C#\obj\Debug\net6.0\Sort_Array_C#.dll
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS4-MoRong_Cpp_C#\Sort_Array_C#\obj\Debug\net6.0\ref\Sort_Array_C#.dll
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS4-MoRong_Cpp_C#\Sort_Array_C#\obj\Debug\net6.0\Sort_Array_C#.pdb
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS4-MoRong_Cpp_C#\Sort_Array_C#\obj\Debug\net6.0\Sort_Array_C#.genruntimeconfig.cache

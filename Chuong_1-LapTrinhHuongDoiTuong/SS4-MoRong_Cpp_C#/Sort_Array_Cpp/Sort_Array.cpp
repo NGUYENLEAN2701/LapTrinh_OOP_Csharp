@@ -7,7 +7,7 @@ void nhapsl_auto(int n, float *x)
     srand(time(0));
     for (int i = 1; i <= n; i++)
     {
-        x[i] = (float)(rand() % 10000 - 5000) / 100;
+        x[i] = (float)(rand() % 10000 - 5000);
     }
 }
 void sortArray(int n, float *x)
@@ -29,13 +29,15 @@ void showArray(int n, float *x)
 }
 int main(void)
 {
-    int n;
-    printf("\nSo Phan Tu Cua Day N = ");
-    scanf("%d", &n);
+    int start = time(0);
+    int n = 1000000; //!=> 16s to finish
+    // printf("\nSo Phan Tu Cua Day N = ");
+    // scanf("%d", &n);
     float *x = (float *)malloc((n + 1) * sizeof(float));
     nhapsl_auto(n, x);
-    showArray(n, x);
+    // showArray(n, x);
     sortArray(n, x);
-    showArray(n, x);
+    // showArray(n, x);
+    printf("\n%d ", time(0) - start);
     return 0;
 }

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Sort_Array_C#/1.0.0": {
+        "runtime": {
+          "Sort_Array_C#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sort_Array_C#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
