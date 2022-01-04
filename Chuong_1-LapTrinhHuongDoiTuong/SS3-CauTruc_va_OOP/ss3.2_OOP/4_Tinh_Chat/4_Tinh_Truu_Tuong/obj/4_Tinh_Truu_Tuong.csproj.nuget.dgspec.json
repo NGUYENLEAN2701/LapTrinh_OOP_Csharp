@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Dell-Admin\\Desktop\\LapTrinh_OOP_Csharp\\Chuong_1-LapTrinhHuongDoiTuong\\SS3-CauTruc_va_OOP\\ss3.2_OOP\\4_Tinh_Chat\\4_Tinh_Truu_Tuong\\4_Tinh_Truu_Tuong.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Dell-Admin\\Desktop\\LapTrinh_OOP_Csharp\\Chuong_1-LapTrinhHuongDoiTuong\\SS3-CauTruc_va_OOP\\ss3.2_OOP\\4_Tinh_Chat\\4_Tinh_Truu_Tuong\\4_Tinh_Truu_Tuong.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Dell-Admin\\Desktop\\LapTrinh_OOP_Csharp\\Chuong_1-LapTrinhHuongDoiTuong\\SS3-CauTruc_va_OOP\\ss3.2_OOP\\4_Tinh_Chat\\4_Tinh_Truu_Tuong\\4_Tinh_Truu_Tuong.csproj",
+        "projectName": "4_Tinh_Truu_Tuong",
+        "projectPath": "C:\\Users\\Dell-Admin\\Desktop\\LapTrinh_OOP_Csharp\\Chuong_1-LapTrinhHuongDoiTuong\\SS3-CauTruc_va_OOP\\ss3.2_OOP\\4_Tinh_Chat\\4_Tinh_Truu_Tuong\\4_Tinh_Truu_Tuong.csproj",
+        "packagesPath": "C:\\Users\\Dell-Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dell-Admin\\Desktop\\LapTrinh_OOP_Csharp\\Chuong_1-LapTrinhHuongDoiTuong\\SS3-CauTruc_va_OOP\\ss3.2_OOP\\4_Tinh_Chat\\4_Tinh_Truu_Tuong\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Dell-Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
