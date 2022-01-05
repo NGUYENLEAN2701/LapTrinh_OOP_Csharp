@@ -1,5 +1,4 @@
-﻿
-using Green;
+﻿using Green;
 namespace Const_Struct
 {
     class Program
