@@ -1,16 +1,12 @@
 ﻿long start = DateTimeOffset.UtcNow.ToUnixTimeSeconds();
 int n = 1000000000;
-double[] x = new double[n];
+List<double> x = new List<double>();
 Random rand = new Random();
 for (int i = 0; i < n; i++)
 {
-    x[i] = rand.NextDouble() * (100 - (-100)) + (-100);
+    x.Add(rand.NextDouble() * (100 - (-100)) + (-100));
 }
-// foreach (double value in x)
-// {
-//     Console.WriteLine("{0:0.000}", value);
-// }
-Array.Sort(x);
+x.Sort();
 long end_time = DateTimeOffset.UtcNow.ToUnixTimeSeconds() - start;
 // foreach (double value in x)
 // {

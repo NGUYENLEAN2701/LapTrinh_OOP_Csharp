@@ -1,0 +1,15 @@
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS4-MoRong_Cpp_C#\Const_&_Struct\bin\Debug\net6.0\Const_&_Struct.exe
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS4-MoRong_Cpp_C#\Const_&_Struct\bin\Debug\net6.0\Const_&_Struct.deps.json
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS4-MoRong_Cpp_C#\Const_&_Struct\bin\Debug\net6.0\Const_&_Struct.runtimeconfig.json
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS4-MoRong_Cpp_C#\Const_&_Struct\bin\Debug\net6.0\Const_&_Struct.dll
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS4-MoRong_Cpp_C#\Const_&_Struct\bin\Debug\net6.0\ref\Const_&_Struct.dll
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS4-MoRong_Cpp_C#\Const_&_Struct\bin\Debug\net6.0\Const_&_Struct.pdb
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS4-MoRong_Cpp_C#\Const_&_Struct\obj\Debug\net6.0\Const_&_Struct.csproj.AssemblyReference.cache
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS4-MoRong_Cpp_C#\Const_&_Struct\obj\Debug\net6.0\Const_&_Struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS4-MoRong_Cpp_C#\Const_&_Struct\obj\Debug\net6.0\Const_&_Struct.AssemblyInfoInputs.cache
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS4-MoRong_Cpp_C#\Const_&_Struct\obj\Debug\net6.0\Const_&_Struct.AssemblyInfo.cs
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS4-MoRong_Cpp_C#\Const_&_Struct\obj\Debug\net6.0\Const_&_Struct.csproj.CoreCompileInputs.cache
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS4-MoRong_Cpp_C#\Const_&_Struct\obj\Debug\net6.0\Const_&_Struct.dll
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS4-MoRong_Cpp_C#\Const_&_Struct\obj\Debug\net6.0\ref\Const_&_Struct.dll
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS4-MoRong_Cpp_C#\Const_&_Struct\obj\Debug\net6.0\Const_&_Struct.pdb
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS4-MoRong_Cpp_C#\Const_&_Struct\obj\Debug\net6.0\Const_&_Struct.genruntimeconfig.cache

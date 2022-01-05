@@ -1,0 +1,15 @@
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS4-MoRong_Cpp_C#\Sort_List_C#\obj\Debug\net6.0\Sort_List_C#.csproj.AssemblyReference.cache
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS4-MoRong_Cpp_C#\Sort_List_C#\obj\Debug\net6.0\Sort_List_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS4-MoRong_Cpp_C#\Sort_List_C#\obj\Debug\net6.0\Sort_List_C#.AssemblyInfoInputs.cache
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS4-MoRong_Cpp_C#\Sort_List_C#\obj\Debug\net6.0\Sort_List_C#.AssemblyInfo.cs
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS4-MoRong_Cpp_C#\Sort_List_C#\obj\Debug\net6.0\Sort_List_C#.csproj.CoreCompileInputs.cache
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS4-MoRong_Cpp_C#\Sort_List_C#\bin\Debug\net6.0\Sort_List_C#.exe
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS4-MoRong_Cpp_C#\Sort_List_C#\bin\Debug\net6.0\Sort_List_C#.deps.json
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS4-MoRong_Cpp_C#\Sort_List_C#\bin\Debug\net6.0\Sort_List_C#.runtimeconfig.json
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS4-MoRong_Cpp_C#\Sort_List_C#\bin\Debug\net6.0\Sort_List_C#.dll
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS4-MoRong_Cpp_C#\Sort_List_C#\bin\Debug\net6.0\ref\Sort_List_C#.dll
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS4-MoRong_Cpp_C#\Sort_List_C#\bin\Debug\net6.0\Sort_List_C#.pdb
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS4-MoRong_Cpp_C#\Sort_List_C#\obj\Debug\net6.0\Sort_List_C#.dll
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS4-MoRong_Cpp_C#\Sort_List_C#\obj\Debug\net6.0\ref\Sort_List_C#.dll
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS4-MoRong_Cpp_C#\Sort_List_C#\obj\Debug\net6.0\Sort_List_C#.pdb
+C:\Users\Dell-Admin\Desktop\LapTrinh_OOP_Csharp\Chuong_1-LapTrinhHuongDoiTuong\SS4-MoRong_Cpp_C#\Sort_List_C#\obj\Debug\net6.0\Sort_List_C#.genruntimeconfig.cache
